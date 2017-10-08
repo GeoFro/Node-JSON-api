@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Old bike",
+    "cost": "$162.00",
+    "retail": "$315.00",
+    "avail": "In stock"
+  },
+  {
+    "name": "Used bike",
+    "cost": "$180.00",
+    "retail": "$350.00",
+    "avail": "In stock"
+  },
+  {
+    "name": "Bike (Only ridden once)",
+    "cost": "$198.00",
+    "retail": "$385.00",
+    "avail": "On back order"
+  },
+  {
+    "name": "Brand New Bike",
+    "cost": "$225.00",
+    "retail": "$437.50",
+    "avail": "In stock"
+  }
+]
